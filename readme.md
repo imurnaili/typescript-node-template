@@ -2,7 +2,7 @@
 
 ts <br/>
 nodemon <br/>
-lint <br/>
+staged-lint <br/>
 prettier <br/>
 husky <br/>
 
